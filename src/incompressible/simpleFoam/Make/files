@@ -1,3 +1,3 @@
 simpleFoam.C
 
-EXE = ~/solver/solvers/incompressible/simpleFoam/simpleFoamExe
+EXE = ~/src/incompressible/simpleFoam/simpleFoamExe
